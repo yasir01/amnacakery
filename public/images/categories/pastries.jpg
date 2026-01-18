@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fef3c7" width="400" height="300"/>
+  <ellipse cx="200" cy="150" rx="90" ry="50" fill="#fbbf24"/>
+  <path d="M120 150 Q200 80 280 150" fill="#d97706"/>
+  <text x="200" y="270" font-family="Georgia" font-size="20" fill="#92400e" text-anchor="middle">Pastries</text>
+</svg>

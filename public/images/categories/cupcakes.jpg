@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fef3c7" width="400" height="300"/>
+  <path d="M160 200 L240 200 L230 250 L170 250 Z" fill="#d97706"/>
+  <circle cx="200" cy="170" r="50" fill="#fda4af"/>
+  <circle cx="200" cy="140" r="15" fill="#f43f5e"/>
+  <text x="200" y="280" font-family="Georgia" font-size="20" fill="#92400e" text-anchor="middle">Cupcakes</text>
+</svg>

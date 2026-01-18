@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fef3c7" width="400" height="300"/>
+  <ellipse cx="200" cy="150" rx="100" ry="60" fill="#d97706"/>
+  <line x1="140" y1="130" x2="180" y2="120" stroke="#78350f" stroke-width="3"/>
+  <line x1="180" y1="140" x2="220" y2="130" stroke="#78350f" stroke-width="3"/>
+  <line x1="220" y1="130" x2="260" y2="140" stroke="#78350f" stroke-width="3"/>
+  <text x="200" y="270" font-family="Georgia" font-size="20" fill="#92400e" text-anchor="middle">Artisan Breads</text>
+</svg>

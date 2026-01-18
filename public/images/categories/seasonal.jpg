@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fce7f3" width="400" height="300"/>
+  <polygon points="200,80 230,160 180,120 220,120 170,160" fill="#f43f5e"/>
+  <circle cx="200" cy="180" r="50" fill="#fda4af"/>
+  <text x="200" y="270" font-family="Georgia" font-size="20" fill="#be123c" text-anchor="middle">Seasonal Specials</text>
+</svg>
